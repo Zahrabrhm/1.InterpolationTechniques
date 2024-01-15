@@ -22,7 +22,7 @@ Bicubic Interpolation is an extension of Bilinear Interpolation that involves co
 Attached are three example images demonstrating the results of Nearest Neighborhood, Bilinear, and Bicubic interpolations.
 
 - `Original.png`
-- `Nearest_Neighborhood_0.5.jpg`
+- `Nearest_Neighborhood_0.5.png`
 - `Bilinear_0.5.png`
 - `Bicubic_0.5.png`
 
@@ -30,7 +30,7 @@ Attached are three example images demonstrating the results of Nearest Neighborh
 ![Original Image](./Result/Original.png)
 *Fig. 1: Original Image*
 
-![Nearest Neighborhood Example](./Result/Nearest_Neighborhood_0.5.jpg)
+![Nearest Neighborhood Example](./Result/Nearest_Neighborhood_0.5.png)
 *Fig. 2: Nearest Neighborhood Interpolation (Scale Factor: 0.5)*
 
 ![Bilinear Interpolation Example](./Result/Bilinear_0.5.png)
